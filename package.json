@@ -1,0 +1,16 @@
+{
+  "name": "pdffiller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vladymir karlovsky <deksazon8@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^8.0.0",
+    "pdfkit": "^0.11.0"
+  }
+}
